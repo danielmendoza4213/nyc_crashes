@@ -2,7 +2,10 @@
 
 ### Files:
 
-Inside datasetm there are two file, the orignal one called data_100000.csv and the file produce after the "cleaning" data_100000_output.csv
+Test.iynb -> Code
+data_100000_output.csv -> ouput after cleaning
+
+Original file is not uploaded, it can be find here: https://data.cityofnewyork.us
 
 ### Improvements:
 
